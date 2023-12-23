@@ -53,7 +53,8 @@ function App() {
       <Banner/>
       <Projeto aoProjetoCadastrado={projeto => aoNovoProjetoAdicionado(projeto)}/>
       <Formulario times={times.map(time => time.nome)} projetos={projetos.map(projeto => projeto.projeto)} aoColaboradorCadastrado={colaborador => aoNovoColaboradorAdicionado(colaborador)}/>
-      {projetos.length > 0 &&
+      {colaboradores.length > 0 && <h2 className='titulo-secao'>Projetos</h2>}
+      {colaboradores.length > 0 &&
         projetos.map(projeto => 
         <Time 
           key={projeto.projeto} 
