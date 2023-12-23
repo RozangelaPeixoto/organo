@@ -1,0 +1,25 @@
+.rodape-pagina{
+    background-color: #6278F7;
+    background-image: url('../../../public/imagens/fundo.png');
+    height: 213px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.rodape-pagina .redes-sociais{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 32px;
+    width: 160px;
+}
+.rodape-pagina .redes-sociais li{
+    list-style: none;
+}
+.rodape-pagina > img{
+    width: 166px;
+}
+.rodape-pagina p{
+    color: #fff;
+    font-size: 20px;
+}
