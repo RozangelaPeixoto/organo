@@ -15,19 +15,11 @@ Esse foi meu primeiro projeto em react e acompanhei a criação dele no curso "R
   * `useState`;
   * `utilização das propriedades do componente`;
   * `funções map e filter`
-<<<<<<< HEAD
   `HTML e CSS`: Não fiz o projeto do zero, mas os componentes de Banner e Rodapé foram de minha completa autoria.
-=======
->>>>>>> 33e6482e3bb14408bb31f2f335c73969513c6614
 
 ## 📁Acesso ao projeto
 Para ver como ficou a página [clique aqui](https://organo-nu-lime.vercel.app/).
 
 
 ## ➕Extra: Deixando o código mais genérico
-<<<<<<< HEAD
 Se os times forem removidos, o código pode ser usado para agrupar pessoas em qualquer categoria que seja criada.
-=======
-Se os times forem removidos, o código pode ser usado para agrupar pessoas em qualquer categoria que seja criada.
-
->>>>>>> 33e6482e3bb14408bb31f2f335c73969513c6614
