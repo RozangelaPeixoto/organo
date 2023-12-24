@@ -1,7 +1,7 @@
 import "./Colaborador.css"
 
 const Colaborador = ({time, nome, imagem, cor}) => {
-    const usuarioGithub = `http://github.com/${imagem}.png`
+    const usuarioGithub = `https://github.com/${imagem}.png`
     return (
         <div className="colaborador">
             <div className="cabecalho" style={{backgroundColor: cor[0].corTime}}>
