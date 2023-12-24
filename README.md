@@ -8,7 +8,7 @@ Esse foi meu primeiro projeto em react e acompanhei a criação dele no curso "R
 </div>
 
 ## 📚O que utilizei
-*`Create React App`: abaixo os assuntos que estudei:
+`Create React App`: abaixo os assuntos que estudei:
   * `criação de projeto`;
   * `criação de componentes`;
   * `organização de pastas`;
