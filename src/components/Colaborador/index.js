@@ -1,11 +1,11 @@
 import "./Colaborador.css"
 
 const Colaborador = ({time, nome, imagem, cor}) => {
-    const usuarioGithub = `https://github.com/${imagem}.png`
+    const imagemUsuario = imagem.includes('http') ? imagem : `https://github.com/${imagem}.png` 
     return (
         <div className="colaborador">
             <div className="cabecalho" style={{backgroundColor: cor[0].corTime}}>
-                <img src={usuarioGithub} alt={nome}/>
+                <img src={imagemUsuario} alt={nome}/>
             </div>
             <div className="rodape">
                 <h4>{nome}</h4>
