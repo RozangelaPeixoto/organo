@@ -1,21 +1,22 @@
 # Organo
-É um site para organizar projetos e equipes.
+É um site para organizar projetos e suas respectivas equipes.
 
 ## 💻Sobre o Desenvolvimento
-Esse foi meu primeiro projeto em react e acompanhei a criação dele no curso "React: desenvolvendo com JavaScript" da Alura. O projeto original era para criar e listar colaboradores em categorias pré-estabelecidas, mas a ideia que implementei permite que o usuário crie projetos e então adicione colaboradores a esses projetos.
+Esse foi meu primeiro projeto em react e acompanhei a criação dele no curso "React: desenvolvendo com JavaScript" da Alura. O projeto original era para criar e listar colaboradores em categorias pré-estabelecidas, [projeto original](https://github.com/RozangelaPeixoto/organo/assets/140510936/70f26290-dc2b-4808-8d9d-8bf53de0e108), mas a ideia que implementei permite que o usuário crie projetos e então adicione colaboradores a esses projetos.
 <div align="center"> 
   <img src="https://github.com/RozangelaPeixoto/organo/assets/140510936/52ab3200-99ca-4d01-865c-884ca6258cc1" width="500px">
 </div>
 
 ## 📚O que utilizei
-`Create React App`: abaixo os assuntos que estudei:
-  * `criação de projeto`;
-  * `criação de componentes`;
-  * `organização de pastas`;
-  * `useState`;
-  * `utilização das propriedades do componente`;
-  * `funções map e filter`
-  `HTML e CSS`: Não fiz o projeto do zero, mas os componentes de Banner e Rodapé foram de minha completa autoria.
+Create React App: abaixo os assuntos que estudei:
+  * criação de projeto;
+  * criação de componentes;
+  * organização de pastas;
+  * useState;
+  * utilização das propriedades do componente;
+  * funções map e filter;
+  
+HTML e CSS: Não fiz o projeto do zero, mas os componentes de Banner e Rodapé foram de minha completa autoria.
 
 ## 📁Acesso ao projeto
 Para ver como ficou a página [clique aqui](https://organo-nu-lime.vercel.app/).
